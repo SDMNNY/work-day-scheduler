@@ -2,7 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
-  background-color: pink;
+  background-color: white;
 }
 
 textarea {
@@ -40,7 +40,6 @@ textarea {
 .hour {
   background-color: #ffffff;
   color: #000000;
-  border-radius: 2em;
 }
 
 .past {

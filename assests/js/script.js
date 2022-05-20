@@ -1,6 +1,6 @@
 $("#currentDay").text(moment().format("dddd, MMMM do, YYYY")); 
 
-var currentTime = moment.hour();
+var currentTime = moment().hours();
 
 for (i = 0; i < 25; i++) {
     if (currentTime ===i) {
